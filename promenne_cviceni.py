@@ -46,7 +46,7 @@ sleva = 0.3
 
 # D
 
-cena_za_kus = 50 * sleva
+cena_za_kus = 50 * (1 - sleva)
 
 
 # Plánování svatby
@@ -68,6 +68,8 @@ print(celkove_naklady)
 # D
 
 cena_dospely = 1000
+
+cena_dite = cena_dospely * 0.5
 
 celkove_naklady = 60 * cena_dospely + 8 * cena_dite
 
