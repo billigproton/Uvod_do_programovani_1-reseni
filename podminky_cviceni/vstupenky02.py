@@ -8,11 +8,11 @@ plna_cena = 12
 if vek < 6:
     cena = 0
 elif vek >= 6 and vek <= 26:
-    cena =  round(plna_cena * 0.65, 2)
+    cena =  round(plna_cena * 0.65)
 elif vek >= 27 and vek <= 64:
-    cena = round(plna_cena, 2)
+    cena = round(plna_cena)
 elif vek >= 65:
-    cena = round(plna_cena * 0.5, 2)
+    cena = round(plna_cena * 0.5)
 
 print(f"Cena vstupenky je {cena}.")
 
