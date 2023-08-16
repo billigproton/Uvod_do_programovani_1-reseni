@@ -2,8 +2,8 @@ hodnoceni = [7, 9, 6, 7, 9, 8]
 
 # A
 
-#for kazde_hodnoceni in hodnoceni:
-    #print(kazde_hodnoceni)
+for kazde_hodnoceni in hodnoceni:
+    print(kazde_hodnoceni)
 
 # B
 
