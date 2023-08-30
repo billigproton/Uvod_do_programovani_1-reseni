@@ -12,5 +12,8 @@ print("Pro vstup do systému je potřeba registrace")
 input("Zadejte Vaše uživatelské jméno: ")
 vek = int(input("Zadejte Váš věk: "))
 
+vek = input("Zadejte věk")
+vek = int(vek)
+
 
 
