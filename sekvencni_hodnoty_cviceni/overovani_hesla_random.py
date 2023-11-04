@@ -1,3 +1,4 @@
+# Ověřování hesla - bonus bonusu
 
 import random
 

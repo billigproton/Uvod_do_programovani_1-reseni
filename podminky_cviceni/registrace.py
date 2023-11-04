@@ -1,3 +1,5 @@
+# registrace
+
 jmeno = input("Zvolte si uživatelské jméno: ")
 heslo = input("Zvolte si heslo: ")
 heslo_znova = input("Zadejte heslo znova: ")

@@ -1,3 +1,5 @@
+# Procházení seznamu
+
 hesla = [
     "xyz101",
     "punťa",

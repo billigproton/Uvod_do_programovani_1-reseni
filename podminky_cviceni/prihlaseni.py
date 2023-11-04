@@ -1,3 +1,5 @@
+# Jednoduché podmínky
+
 jmeno = input("Zadejte uživatelské jméno: ")
 heslo = input("Zadejte heslo: ")
 

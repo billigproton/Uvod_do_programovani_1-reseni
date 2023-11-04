@@ -1,3 +1,5 @@
+# Největší prvek
+
 cisla = [10.5, 13.3, 17.2, 11.5]
 nejvetsi = cisla[0]
 
@@ -5,3 +7,12 @@ for cislo in cisla:
   if cislo > nejvetsi:
     nejvetsi = cislo
 print(nejvetsi)
+
+a = 1
+
+b = 0.2
+
+modus = a % b
+celoc_deleni = a // b 
+print(modus)
+print(celoc_deleni)

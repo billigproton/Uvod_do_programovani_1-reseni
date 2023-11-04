@@ -1,3 +1,5 @@
+# Zakázka pro divadlo
+
 # se zalomením řádku
 
 print("Divadlo pěst na oko" + "\n" + "Vítejte v online rezervaci vstupenek" + "\n" + "Pro vstup do systému je potřeba registrace" + "\n")

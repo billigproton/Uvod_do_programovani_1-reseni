@@ -1,3 +1,5 @@
+# vstupenky 02
+
 
 print("Divadlo pěst na oko" + "\n" + "Vítejte v online rezervaci vstupenek" + "\n" + "Pro vstup do systému je potřeba registrace" + "\n")
 input("Zadejte Vaše uživatelské jméno: ")

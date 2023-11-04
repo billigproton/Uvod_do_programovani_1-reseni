@@ -1,3 +1,5 @@
+# Ověřování hesla
+
 heslo = input("Zadejte vaše heslo: ")
 
 druhy_znak = input("Zadejte 2. znak hesla: ")

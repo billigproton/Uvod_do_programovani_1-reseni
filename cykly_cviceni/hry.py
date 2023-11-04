@@ -1,3 +1,5 @@
+# Hry
+
 hry = [
     ["Ňadro na ňadru na nádru", 180],
     ["Útok plyšových krokodýlů", 95],

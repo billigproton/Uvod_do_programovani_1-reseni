@@ -36,5 +36,3 @@ import random
 cislo_predstaveni = random.randint(1, 24)
 
 print(cislo_predstaveni)
-
-"/n"

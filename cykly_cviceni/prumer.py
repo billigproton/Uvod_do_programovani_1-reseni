@@ -1,3 +1,5 @@
+# Průměr
+
 # Vytvoření seznamu čísel
 seznam_cisel = [3.5, 2.7, 6.8, 4.2, 5.1]
 

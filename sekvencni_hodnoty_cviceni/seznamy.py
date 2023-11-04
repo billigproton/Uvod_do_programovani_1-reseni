@@ -7,6 +7,7 @@ pocty_divaku = [20, 40, 25, 80, 60]
 zaplnenost_divadla = [0.2, 0.4, 0.25, 0.8, 0.6]
 
 # C
+# Seznamy
 
 hry = ["Proměna", "Bílá nemoc", "Hamlet", "Romeo a Julie"]
 

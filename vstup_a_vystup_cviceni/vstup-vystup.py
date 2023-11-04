@@ -21,5 +21,3 @@ minuta = str(30)
 print(nazev + " - " + hodina + ":" + minuta)
 
 
-
-
