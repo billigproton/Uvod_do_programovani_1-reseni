@@ -1,4 +1,4 @@
-# vstupenky 02
+# Cena vstupenky
 
 
 print("Divadlo pěst na oko" + "\n" + "Vítejte v online rezervaci vstupenek" + "\n" + "Pro vstup do systému je potřeba registrace" + "\n")

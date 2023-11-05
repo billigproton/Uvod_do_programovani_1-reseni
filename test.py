@@ -1,18 +1,4 @@
-import random
-heslo = "SkakalPespresOves"
-nahodne_cislo1 = random.randint(1,17)
-znak = input (f"Zadej {nahodne_cislo1}.znak hesla: ")
-if znak !=heslo[nahodne_cislo1 - 1]:
-  print("Špatně")
-  exit()
-nahodne_cislo2 = random.randint(1,17)
-znak = input(f"Zadej {nahodne_cislo2}.znak hesla: ")
-if znak !=heslo[nahodne_cislo2 - 1]:
-  print("Špatně")
-  exit()
-nahodne_cislo3 = random.randint(1,17)
-znak = input(f"Zadej {nahodne_cislo3}.znak hesla: ")
-if znak !=heslo[nahodne_cislo3 - 1]:
-  print("Špatně")
-  exit()
-print("Vstup povolen")
+hodnoceni = [7, 9, 6, 7, 9, 8]
+for h in hodnoceni:
+    vysledny_format = h/10
+    print (vysledny_format)

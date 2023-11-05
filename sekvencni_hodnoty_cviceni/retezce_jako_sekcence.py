@@ -1,4 +1,4 @@
-# Řetězce jako seznamy
+# Řetězce jako sekvence
 
 jmeno = "Daniel Rabiencný"
 

@@ -11,3 +11,5 @@ for kazde_hodnoceni in hodnoceni:
 
 for kazde_hodnoceni in hodnoceni:
     print(f"{kazde_hodnoceni}/10")
+
+    
