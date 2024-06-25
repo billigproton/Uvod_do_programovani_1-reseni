@@ -8,11 +8,4 @@ for cislo in cisla:
     nejvetsi = cislo
 print(nejvetsi)
 
-a = 1
 
-b = 0.2
-
-modus = a % b
-celoc_deleni = a // b 
-print(modus)
-print(celoc_deleni)

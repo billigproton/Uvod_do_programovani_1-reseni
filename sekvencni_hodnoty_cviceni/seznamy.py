@@ -19,6 +19,7 @@ print(druha_hra)
 # D
 
 hodnoceni = [["Reflex", 2], ["Taktik", 5], ["Radost", 7], ["Divadélko", 7]]
-
+    # kdyby mě zajímalo, jaké hodnocení dal druhý časopis
+    
 print(hodnoceni[1][1])
 

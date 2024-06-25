@@ -1,4 +1,9 @@
-hodnoceni = [7, 9, 6, 7, 9, 8]
-for h in hodnoceni:
-    vysledny_format = h/10
-    print (vysledny_format)
+uzivatelske_jmeno = input("Zadejte své uživatelské jménbo: ")
+if uzivatelske_jmeno != "simsalabim":
+    print("Vstup nepovolen")
+    exit
+vek = int(input("Zadej svůj věk: "))
+if vek >= 18:
+    print("Smíš vstoupit")
+else:
+    print("Vstup povolen od 18 let")

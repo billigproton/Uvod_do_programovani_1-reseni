@@ -8,3 +8,5 @@ if heslo != heslo_znova:
     print("hesla se neshodují!")
 elif len(heslo) < 8:
     print("Pozor! Heslo má méně než 8 znaků..")
+
+print("Vítejte!")
