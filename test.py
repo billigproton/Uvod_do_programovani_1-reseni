@@ -6,4 +6,4 @@ vek = int(input("Zadej svůj věk: "))
 if vek >= 18:
     print("Smíš vstoupit")
 else:
-    print("Vstup povolen od 18 let")
+    print("Vstup povolen od 18 let ")
